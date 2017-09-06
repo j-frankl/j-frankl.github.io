@@ -1,5 +1,6 @@
 ## Welcome to Jenny's Homepage!
-Feel free to check out what I am working on
+Feel free to check out what I am working on :)
+
 You can use the [editor on GitHub](https://github.com/j-frankl/j-frankl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
